@@ -11,7 +11,7 @@
 Download the datasets and put it into CodDataset folder<br>
 * Datasets Link: [Baidu Pan link with the fetch code:1234.](https://pan.baidu.com/s/12lYTC_YPb4jVZdM4l1rK9Q  Code: 1234)
 * downloading testing dataset and move it into ./CodDataset/TestDataset/
-* downloading testing dataset and move it into ./CodDataset/TrainDataset/
+* downloading training dataset and move it into ./CodDataset/TrainDataset/
 * preparing the smt weights on SMT(Scale-Aware Modulation Meet Transformer) refer to Drive and move it into main folder.
   
 # Pretrained Model
