@@ -7,6 +7,10 @@
 * torchaudio 0.10.1<br>
 * Numpy 1.19.5
 
+## Configuring your environment (Prerequisites):
+- Creating a virtual environment in terminal: `conda create -n PEMFNet python=3.6.13`.
+- Installing necessary packages: `pip install -r requirements.txt`.
+
 # Datasets
 Download the datasets and put it into CodDataset folder<br>
 * Datasets Link: [Baidu Pan link with the fetch code:1234.](https://pan.baidu.com/s/12lYTC_YPb4jVZdM4l1rK9Q  Code: 1234)
