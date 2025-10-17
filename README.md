@@ -9,7 +9,6 @@
 - downloading testing dataset and move it into ./CodDataset/TestDataset/, which can be found in this download link (https://pan.baidu.com/s/12lYTC_YPb4jVZdM4l1rK9Q  Code: 1234).
 - downloading training dataset and move it into ./CodDataset/TrainDataset/, which can be found in this download link (https://pan.baidu.com/s/12lYTC_YPb4jVZdM4l1rK9Q  Code: 1234).
 - downloading smt pretrained weights and move it into ./smt_tiny.pth, which can be found in this download link (https://pan.baidu.com/s/12lYTC_YPb4jVZdM4l1rK9Q  Code: 1234).
-- downloading our best pretrained weights and move it into ./out/PEMFNet/PEMFNet_best_epoch.pth, which can be found in this download link (https://pan.baidu.com/s/12lYTC_YPb4jVZdM4l1rK9Q  Code: 1234).
 
 ## 1.3 Training Configuration:
 - Set parameters and the save path (./out/PEMFNet/) in the options_cod.py file, then run the PEMFNet_train_cod.py file.
