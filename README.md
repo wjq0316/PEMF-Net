@@ -21,8 +21,6 @@ Assigning your costumed path, like method, mask_root and pred_root in eval.py. J
 
 # 2. Our Results
 - The pre-computed maps of PEMFNet can be found in this download link (https://pan.baidu.com/s/12lYTC_YPb4jVZdM4l1rK9Q  Code: 1234).
-- The best pretrained weights of PEMFNet can be found in this download link (https://pan.baidu.com/s/12lYTC_YPb4jVZdM4l1rK9Q  Code: 1234).
-
 
 # Contact
 Feel free to send e-mails to me (2669061453@qq.com).<br>
