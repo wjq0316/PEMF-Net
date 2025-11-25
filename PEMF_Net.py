@@ -71,7 +71,7 @@ class Edge_Module(nn.Module):
 
         edge_weight = torch.sigmoid(edge_avg + edge_max)
 
-        edge = edge_weight * edge_concat + edge_concat1
+        edge = edge_weight * edge_concat + edge_concat
 
         out = self.out(edge)
 
@@ -485,3 +485,4 @@ if __name__ == '__main__':
 
     # 打印FLOPs和参数数量
     print('flops: %.2f G, parms: %.2f M' % (flops / 1000000000.0, params / 1000000.0))
+
